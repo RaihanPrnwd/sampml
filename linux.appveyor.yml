@@ -3,8 +3,6 @@ version: '{build}'
 image:
  - Ubuntu1804
 
- build: off
-
 cache:
 - OpenBLAS-0.3.4
 - dlib-19.16
